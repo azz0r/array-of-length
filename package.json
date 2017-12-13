@@ -1,0 +1,25 @@
+{
+  "name": "array-of-length",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "module": "main.js",
+  "devDependencies": {
+    "microbundle": "0.2.4"
+  },
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azz0r/array-of-length.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azz0r/array-of-length/issues"
+  },
+  "homepage": "https://github.com/azz0r/array-of-length#readme"
+}
